@@ -6,7 +6,7 @@ https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 1 [Geo-blocked]
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 
-#EXTINF:-1 tvg-chno="2" tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Comedy",Comedy Central 1
+#EXTINF:-1 tvg-chno="2" tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Test Comedy",Comedy Central 1
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy",Comedy Central Animation 1
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
