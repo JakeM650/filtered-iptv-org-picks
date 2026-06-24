@@ -5,23 +5,21 @@ https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News Live 1 [Geo-blocked]
 https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
-
 #EXTINF:-1 tvg-chno="2" tvg-id="ComedyCentral.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Test Comedy",Comedy Central 1
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy",Comedy Central Animation 1
 https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
-
 #EXTINF:-1 tvg-chno="6" tvg-id="TestCops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://jmp2.uk/plu-5e1f7e089f23700009d66303.m3u8
-#EXTINF:-1 tvg-chno="0" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
+#EXTINF:-1 tvg-chno="7" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://jmp2.uk/plu-661cf62d24e1d000087dae0d.m3u8
-#EXTINF:-1 tvg-chno="0" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
+#EXTINF:-1 tvg-chno="8" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://jmp2.uk/plu-6400bc50953da40008b94668.m3u8
-#EXTINF:-1 tvg-chno="0" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
+#EXTINF:-1 tvg-chno="9" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://jmp2.uk/plu-6400bdb1219c4c00081751aa.m3u8
-#EXTINF:-1 tvg-chno="0" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
+#EXTINF:-1 tvg-chno="10" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://jmp2.uk/plu-6400be67219c4c00081755d3.m3u8
-#EXTINF:-1 tvg-chno="0" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
+#EXTINF:-1 tvg-chno="11" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://jmp2.uk/plu-6419ab7c9189ce000865a469.m3u8
-#EXTINF:-1 tvg-chno="0" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
+#EXTINF:-1 tvg-chno="12" tvg-id="Cops.us@SD" tvg-logo="https://i.imgur.com/J3XO6V2.png" group-title="Series",COPS
 https://jmp2.uk/plu-6554bd45aa9ffb00088e5589.m3u8
